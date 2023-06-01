@@ -1,13 +1,13 @@
 # Android Doviz Kuru
 <p> 
-Bu Android uygulaması Türkiye Cumhuriyet Merkez Bankası Kurları
+Bu uygulama XMl ve Jsoup kullanarak Türkiye Cumhuriyet Merkez Bankası'ndan alınan döviz kurlarını gösteren bir android uygulamasıdır.
               
 ### Uygulamada Kullanılan Özellikler:
                     
 Name  | Version
 ------------- | -------------
-SQLite  | 1.23
-Kotlin  | 1.67 
+Jsoup  | 1.16.1
+Kotlin  | 1.8
 </p>
 # Project Display Image
 <p>
